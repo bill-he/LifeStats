@@ -21,4 +21,3 @@ Then navigate to ```localhost:8080```.
 
 ## User and Technical Manual
 Please see Handoff_LifeStats.pdf
-# tt1
