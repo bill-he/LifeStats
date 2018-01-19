@@ -1,6 +1,6 @@
 # 350S17-4-LifeStats
 
-LifeStats: a habit tracker for the person on the move.
+LifeStats: a habit tracker for the person on the move. The motivation for this project came from the fact that, as undergraduate college students, we sometimes cram much more than we can fit into our schedules. As a result, it not only becomes hard to track our daily activities, it is also difficult to track how we feel towards the different activities that we've accomplished. LifeStats gives an interesting way for us to quickly recount those events. By rating each activities with a happiness and stress rating at the end of those activities, we are able to keep track of exactly what we enjoy doing. Lifestats even provides a very nice dashboard to visualize this information.
 
 ## Authors
 
